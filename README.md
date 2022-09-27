@@ -67,9 +67,11 @@ github: <USERNAME>
 ---
 ```
 
-## STEP-3. Wait for Pull Request to merge
+## STEP-3. Add some content to the `CONTENT` folder in  the repository.
 
-## STEP-4. Celebrate - you've done your first pull request!!
+## STEP-4. Wait for Pull Request to merge
+
+## STEP-5. Celebrate - you've done your first pull request!!
 
 ```
 '''
