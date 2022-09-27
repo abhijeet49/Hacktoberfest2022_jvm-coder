@@ -48,16 +48,7 @@ NOTE : Contributions done to the `content` folder only will be counted towards t
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
-## STEP-1. Add your profile picture to the folder
-
-Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
-
-```
-static/images/<YOUR-USERNAME>.png
-```
-
-
-## STEP-2. Add your profile information
+## STEP-1. Add your profile information
 
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. 
 Ex.
@@ -66,7 +57,7 @@ Ex.
 content/participant/<YOUR-USERNAME>.md/
 ```
 
-## STEP-3. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+## STEP-2. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 
 ```
 ---
@@ -76,9 +67,9 @@ github: <USERNAME>
 ---
 ```
 
-## STEP-4. Wait for Pull Request to merge
+## STEP-3. Wait for Pull Request to merge
 
-## STEP-5. Celebrate - you've done your first pull request!!
+## STEP-4. Celebrate - you've done your first pull request!!
 
 ```
 '''
